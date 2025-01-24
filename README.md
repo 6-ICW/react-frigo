@@ -14,4 +14,4 @@ const diepvries = [
   { lade: 2, voeding: "hamburgers", aantal: "6", gewicht: "-" },
   { lade: 3, voeding: "frieten", aantal: "1", gewicht: "1Kg" },
 ];
-![image](https://github.com/user-attachments/assets/73803bc7-decd-4730-b9e5-aea3f763e654)
+
