@@ -2,9 +2,10 @@
 
 We bouwen een basis app op voor een diepvries. 
 
-Ik zou per lade willen weten wat er in aanwezig is, en hoe lang het ingevroren werd. 
+Ik zou per lade willen weten wat er in aanwezig is, en hoe lang het ingevroren werd (moet nog toegevoegd worden). 
 
 We gaan uit van onderstaande objectmodel. 
+Alle state variabelen bevinden zich in app.
 
 
 const diepvries = [
